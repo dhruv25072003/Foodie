@@ -1,0 +1,1 @@
+See README in project. LLM optional; set GROQ_API_KEY/GROQ_ENDPOINT or HF_API_TOKEN.
